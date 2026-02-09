@@ -1,3 +1,4 @@
 # Hi, I'm SOWMIKA 👋  
-🚀 Aspiring Frontend Developer  
-🌱 Currently learning HTML, CSS, JavaScript
+ Aspiring Web developer  
+- Currently learning python
+- Good at html,css,javascript and php
